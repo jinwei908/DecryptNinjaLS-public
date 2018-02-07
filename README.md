@@ -24,6 +24,7 @@ This project uses Windows Studio Community Version 2015.
 
 If you are not looking to change the given code and only want to use the program, please check the program in:
 * WindowsFormsApplication1 >> bin >> Debug >> *NinjaLSDecryptionManager.exe*
+* Or simply just look at the Release tab of this project: [Releases](https://github.com/jinwei908/DecryptNinjaLS-public/releases)
 
 ### Installing
 
